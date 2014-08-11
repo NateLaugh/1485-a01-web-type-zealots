@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+nav a{; width:90%; padding-right:8%;}
+nav li{float:left; display: inline;}
+aside {float: right; width:50%}
+img {width:90%; margin:5%; display:block}
+div {width:100%;}
+div li{float:left; display: inline}
+li {font:15px 'helvetica', sans-serif}
+footer{float:right; width:63%}
+
+p{font-family:'helvetica', serif;}
+h1{font:60px 'helvitca-Bold',sans-serif;}
+h1{color:#FF5611;}
+body{background-color:rgb(28,28,28);}
+p{font:12px 'helvetica', serif;}
+p{color: #D4D4D4;}
+li {width:33%;}
+h2{color:#FF5611;}
+h3{color:#FF5611;}
+h4{color:#FF5611;}
+blockquote{color:#D4D4D4;}
+dl{color:#D4D4D4;}
+h2{font:25px 'helvetica','sans-serif'; padding:0;}
+h3{font:20px 'helvetica','sans-serif'; padding:0;}
+h3{font:16px 'helvetica','sans-serif'; padding:0;}
+blockquote{font:12px 'helvetica','sans-serif'; padding:0;}
+h4{font:14px 'helvetica','sans-serif'; padding:0;}
+d1{font:16px 'helvetica','sans-serif'; padding:0;}
+dd{font:12px 'helvetica','sans-serif'; padding:0;}
+article {clear:left;}
+div {clear:left;}
+
+body{Background: #2E2E2E;float: right;}
+
+.content {width:50%; margin-left: 25%; margin-right:25%;}
+.header {width:50%; margin-left: 25%; margins-right:25%;}
+.nav {width:50%; margin-left: 25%; margins-right:25%;}
+.footer {width:50%; margin-left: 25%; margins-right:25%;}
+body{max width:auto;}
+
