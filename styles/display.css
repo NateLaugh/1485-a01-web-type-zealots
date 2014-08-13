@@ -2,14 +2,14 @@
 /* CSS Document */
 header {width:50%; margin-left: 25%; margins-right:25%;}
 
-h2{font:30px 'helvetica','sans-serif'; padding:0;}
-h3{font:25px 'helvetica','sans-serif'; padding:0;}
-h4{font:18px 'helvetica','sans-serif'; padding:0;}
-h2{background-color:#FA8312; color: white; width:600%;}
+h2{font:30px 'helvetica','sans-serif'; padding:10px;}
+h3{font:25px 'helvetica','sans-serif'; padding:10px;}
+h4{font:18px 'helvetica','sans-serif'; padding:10px;}
+h2{background-color:#FA8312; color: white; width:600%;padding:5px;}
 h3{color:#8DD4FF;}
 h4{color:#8DD4FF;}
 h1{font:70px 'helvetica-condensed',sans-serif;}
-h1{background-color:#FA8312; color: white; width:600%; padding:5px}
+h1{color: white; width:600%; padding:10px;}
 h1{font-family:'Helvetica', san-serif;}
 
 div {clear:left;}
@@ -24,8 +24,9 @@ dd{font:12px 'helvetica','sans-serif'; padding:0;}
 dl{color:#D4D4D4;}
 
 nav a{; width:90%; padding-right:8%;}
-nav li{float:left; display: inline;margin:.2%}
+nav li{float:left; display: inline; margin-bottom:10px;}
 .nav {width:50%; margin-left: 25%; margins-right:25%;}
+
 
 article {clear:left;}
 
@@ -39,8 +40,8 @@ p{font-family:'helvetica', serif;}
 p{font:12px 'helvetica', serif;}
 p{color: #D4D4D4;}
 
-blockquote{font:12px 'helvetica','sans-serif'; padding:0;}
-blockquote{color:#D4D4D4; background-color:#3F3F3F}
+blockquote{font:12px 'helvetica','sans-serif'; padding:15;}
+blockquote{color:#D4D4D4; background-color:#3F3F3F; padding:15px;}
 
 footer{float:right; width:63%}
 .footer {width:50%; margin-left: 25%; margins-right:25%;}
